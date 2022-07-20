@@ -1,0 +1,14 @@
+.blog{
+	padding:20px;
+	max-width:1200px;
+	width:98%;
+	margin:20px auto;
+	border-bottom:5px solid black;
+}
+.date{
+	color:#3498db;
+	text-transform:uppercase;
+}
+.part{
+	border-bottom:2px solid black;
+}
